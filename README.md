@@ -1,7 +1,7 @@
 # Hi, I'm Kokfu! 👋 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KokFu&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kokfu&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
 ### 🎓 IT Graduate | Aspiring Firmware & Robotics Engineer
@@ -21,8 +21,8 @@ I am a **UTAR** graduate focused on **Embedded Systems**, **ROS2**, and **AI Aut
 
 ### 📊 My Activity & Skills
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kokfu&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kokfu&layout=compact&theme=tokyonight" width="300" />
 </p>
 
 ---
@@ -48,5 +48,5 @@ I am a **UTAR** graduate focused on **Embedded Systems**, **ROS2**, and **AI Aut
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KokFu&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kokfu&theme=tokyonight" alt="GitHub Streak" />
 </p>
